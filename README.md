@@ -38,13 +38,13 @@ since the target is the 'charges' column, it is a regression problem. After trai
  In here, we can say that our model was off on predictions by $ 1130 in the training set and it was off on predictions by $2846.78. That means that since the median price for charges is $9386.16, it was off on it's predictions by about 0.12% on average. and our model is correctly predicting 88% which is preety good.
 our model was also accurate on training data by 97% while 86% on the testing data. 
 
-       ### recommendations
+#### recommendations
 
       
 The data is over fit slightly since it is making  almost good predictions based on what it was trained on but the larger number of errors on testing data. I assume is the is due to the Datas not related to each other that much including the target , I would suggest getting more data from the patients other than five factors so gathering of more data other than 5 columns, so that the model performs better,has more information to be trained on.
 second recommendation is that the columns that should be on the data should be more related to the charges column, like patient's health information and other factors that affect patients health.
 
-                                  ### prepared by ELLENI AYELE
+### prepared by ELLENI AYELE
 
 
 
