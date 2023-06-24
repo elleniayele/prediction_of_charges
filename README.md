@@ -42,7 +42,7 @@ our model was also accurate on training data by 97% while 86% on the testing dat
 The data is over fit slightly since it is making  almost good predictions based on what it was trained on but the larger number of errors on testing data. I assume is the is due to the Datas not related to each other that much including the target , I would suggest getting more data from the patients other than five factors so gathering of more data other than 5 columns, so that the model performs better,has more information to be trained on.
 second recommendation is that the columns that should be on the data should be more related to the charges column, like patient's health information and other factors that affect patients health.
 
-                                  ### 
+                                  ### prepared by ELLENI AYELE
 
 
 
