@@ -10,9 +10,11 @@ Our data has 1337 rows and  it has 7 columns.
 Our target valuable will be 'charges' column while the rest of the columns will be features of the data.
 ### analytical insites from the data
 ![image](https://github.com/elleniayele/project-2-part-4/assets/61632568/a1d36838-6f35-430f-b324-be79ce261567)
-this data shows us that as age increases, so does the charges asked to a patient. which makes sense in a way that as people get older, they are more riskier than the younger patients so the cost is less for younger generation than older generation.
+- this data shows us that as age increases, so does the charges asked to a patient. which makes sense in a way that as people get older, they are more riskier 
+ than the younger patients so the cost is less for younger generation than older generation.
 ![image](https://github.com/elleniayele/project-2-part-4/assets/61632568/8c2cec35-9fd0-43db-bd56-091a99a245df)
-this shows that as child number increases, so does the charges.
+
+- this shows that as child number increases, so does the charges.
 ### modeling
 since the target is the 'charges' column, it is a regression problem. After training and testing our data set and applied preprocessing steps,  i used three kinds of modeling: linear regression,decision tree regression and random forest regression. after processing the data and finding best parameters for the models, the best model i found which is a random forest model with pca applied, here are the results of the metrics:
       
