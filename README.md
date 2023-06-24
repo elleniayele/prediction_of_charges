@@ -1,7 +1,7 @@
 # project-2-part-4
 ## prediction of charges
 #### buisness problem
-This project predicts how additional charges will be based on the data of the patient.
+This project predicts how additional charges will be, based on the data of the patient.
 ### data source
 the learning platform
 ### Introduction of the Data
