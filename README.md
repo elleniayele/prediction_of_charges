@@ -18,19 +18,19 @@ Our target valuable will be 'charges' column while the rest of the columns w
 ### modeling
 since the target is the 'charges' column, it is a regression problem. After training and testing our data set and applied preprocessing steps,  i used three kinds of modeling: linear regression,decision tree regression and random forest regression. after processing the data and finding best parameters for the models, the best model i found which is a random forest model with pca applied, here are the results of the metrics:
       
-      ### random forest regressiion 
+          random forest regressiion 
       
-        #### r2 score
+            - r2 score
         
       -Training R2 is 0.9712278015286793
       -Testing R2 is 0.8628933212895309
 
-       #### mean absolute error
+          mean absolute error
        
        - train_MAE:1130.305272327645
        - test_MAE:2846.7845994677605
        
-       #### root mean squared error
+           root mean squared error
 
        - train_RMSE:1989.6214016701506
        - test_RMSE:4868.992751402017
